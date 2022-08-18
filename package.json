@@ -12,6 +12,7 @@
     "@vueuse/core": "^8.4.2",
     "axios": "^0.27.2",
     "crypto-js": "^4.1.1",
+    "element-china-area-data": "^5.0.2",
     "element-plus": "^2.2.12",
     "pinia": "^2.0.18",
     "pinia-plugin-persist": "^1.0.0",
